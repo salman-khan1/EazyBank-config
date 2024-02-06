@@ -4,7 +4,7 @@ build:
 
 
 accounts:
-  message: "Welcome to EazyBank cards related Prod APIs"
+  message: "Welcome to EazyBank cards related Production APIs"
   contactDetails:
     name: "Salman Khan -Product Owner"
     email: "myselfsalman2000@gmail.com"
